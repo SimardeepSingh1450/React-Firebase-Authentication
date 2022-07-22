@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.flexer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.flexer img{
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+body{
+  background-image: linear-gradient(to top right ,orange,black);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
